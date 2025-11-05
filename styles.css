@@ -1,0 +1,16 @@
+body{
+    font-family:system-ui,-apple-system,"segoeUI,"Roboto,"Noto sansJP",sans-serif;
+    font-size:16x;
+    line-height:1.7;
+    color:#333;
+    background-color: #c6a1a1;
+    margin:0;
+}
+.container{
+    max-width:600pX;
+    margin:40pX auto;
+    padding:20pX30pX;
+    background-color:#ffffff;
+    border-radius: 8pX;
+    box-shadow: 0 2pX 4pX rgba(0,0,0,0);
+}
